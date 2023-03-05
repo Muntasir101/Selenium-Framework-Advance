@@ -1,0 +1,17 @@
+project/
+├── pages/
+│   ├── __init__.py
+│   └── login_page.py
+├── tests/
+│   ├── __init__.py
+│   ├── conftest.py
+│   └── test_login.py
+├── utils/
+│   ├── __init__.py
+│   ├── config.py
+│   └── logger.py
+├── .gitignore
+├── allure_report/
+├── requirements.txt
+├── run_tests.sh
+└── README.md
